@@ -1,0 +1,237 @@
+.nav {
+    background-color: transparent!important;
+}
+.logo-1 {
+    height: 20px!important;
+    margin: 30px;
+}
+.logo-2 {
+    height: 15px!important;
+}
+.list {
+    margin-left: 450px;
+}
+.About {
+    margin: 10px!important;
+    margin-left: 40px!important;
+}
+.Services {
+    margin: 10px!important;
+    margin-left: 30px!important;
+}
+.Pricing {
+    margin: 10px!important;
+    margin-left: 30px!important;
+}
+.Blog {
+    margin: 10px!important;
+    margin-left: 30px!important;
+}
+.Sign-in {
+    background-color: #000;
+    color: #fff;
+    margin: 10px;
+    padding: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    align-items: center;
+    border: none;
+    margin-right: 100px;
+}
+.text-1 {
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #000;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 91.99px;
+    text-decoration: none;
+}
+.img-1 {
+    margin-left: 700px;
+    margin-top: -400px;
+    height: 573px;
+    width: 573px;
+}
+.text-2 {
+    margin-top: -5px;
+    margin-left: 50px;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+.btn-2 {
+    background-color: #000;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 50px;
+    border: none;
+    padding: 5px;
+}
+.card-1 {
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 1px solid#000;
+}
+.card-2 {
+    margin-left: 470px;
+    margin-top: -190px;
+    border: 1px solid#000;
+}
+.card-3 {
+    margin-left: 900px;
+    margin-top: -190px;
+    border: 1px solid#000;
+}
+.card-1 h5 {
+    margin-left: 60px;
+    margin-top: -30px;
+}
+.card-2 h5 {
+    margin-left: 60px;
+    margin-top: -30px;
+}
+.card-3 h5 {
+    margin-left: 60px;
+    margin-top: -30px;
+}
+.text-3 {
+    margin-top: 100px;
+    margin-left: 700px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 91.99px;
+    text-decoration: none;
+    line-height: 70px;
+}
+.text-4 {
+    margin-top: 10px;
+    margin-left: 700px;
+    font-size: 20px;
+}
+.img-2 {
+    margin-top: -500px;
+    margin-left: 100px;
+}
+.features {
+    text-align: center;
+    margin: 60px;
+}
+.card-4 {
+    margin-left: 100px;
+    margin-top: 120px;
+    border: 1px solid#000;
+}
+.card-5 {
+    margin-left: 500px;
+    margin-top: -240px;
+    border: 1px solid#000;
+}
+.card-6 {
+    margin-left: 900px;
+    margin-top: -240px;
+    border: 1px solid#000;
+}
+.card-7 {
+    margin-left: 100px;
+    margin-top: 70px;
+    border: 1px solid#000;
+}
+.card-8 {
+    margin-left: 500px;
+    margin-top: -240px;
+    border: 1px solid#000;
+}
+.card-9 {
+    margin-left: 900px;
+    margin-top: -240px;
+    border: 1px solid#000;
+}
+.Sign-up {
+    color: #000;
+    margin-left: 80px;
+    margin-top: 150px;
+    font-weight: 700;
+}
+.email {
+    margin-left: 800px;
+    margin-top: -50px;
+}
+.input {
+    margin-top: 10px;
+    padding: 10px;
+    width: 320px;
+    height: 50px;
+    z-index: 1;
+}
+.btn-3 {
+    margin-right: 80px;
+    margin-left: 1000px;
+    margin-top: -50px;
+    position: relative;
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
+.img-3 {
+    height: 30px!important;
+    margin: 30px;
+}
+.img-4 {
+    height: 20px!important;
+    margin: 10px;
+}
+.logo-3 {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.text-5 {
+    margin-left: 80px;
+    font-size: large;
+    font-weight: 500;
+}
+.list-2 {
+    margin-top: -160px;
+    margin-left: 1000px;
+    color: #000;
+    line-height: 10px;
+}
+.services{
+    color: gray ;
+}
+.about{
+    color: gray ;
+}
+.pricing{
+    color: gray ;
+}
+.blog{
+    color: #808080 ;
+}
+.list-3 {
+    margin-top: -170px;
+    margin-left: 1200px;
+    color: #000;
+    line-height: 10px;
+}
+.Newsletter{
+    color: gray ;
+}
+.Community{
+    color: gray ;
+}
+.Jobs{
+    color: gray ;
+}
+.Forums{
+    color: gray ;
+}
+.Copyright {
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.social-media {
+    margin-left: 1200px;
+    margin-top: -40px;
+}
